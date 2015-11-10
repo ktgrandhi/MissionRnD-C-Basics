@@ -17,5 +17,6 @@ NOTES: 		use stdarg.h header.
 
 int variableArguments(int arg_count, ...)
 {
+	
 	return 0;
 }
